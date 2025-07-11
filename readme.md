@@ -9,6 +9,7 @@ Một dự án đơn giản giúp hiển thị tin nhắn chat TikTok trên màn
 - [Node.js](https://nodejs.org/) (khuyến nghị v16+)
 - [NPM](https://www.npmjs.com/)
 - [Cloudflared](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install/) (để public overlay cho OBS)
+- Sử dụng qua Tikfinity Event API
 
 ---
 
